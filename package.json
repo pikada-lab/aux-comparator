@@ -1,0 +1,15 @@
+{
+  "name": "aux-comparator",
+  "version": "4.0.3",
+  "description": "Comparator for array",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "ntsc && node dist/test.js"
+  },
+  "keywords": [
+    "comparator",
+    "array"
+  ],
+  "author": "Dzhigurda A Anton",
+  "license": "ISC"
+}
