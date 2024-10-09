@@ -1,15 +1,19 @@
 {
   "name": "aux-comparator",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "description": "Comparator for array",
   "main": "dist/index.js",
   "scripts": {
     "test": "ntsc && node dist/test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pikada-lab/aux-comparator"
+  },
   "keywords": [
     "comparator",
     "array"
   ],
-  "author": "Dzhigurda A Anton",
+  "author": "Dzhigurda A Anton <info@pikada-lab.ru>",
   "license": "ISC"
 }
