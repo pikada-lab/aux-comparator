@@ -1,9 +1,10 @@
 {
   "name": "aux-comparator",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "description": "Comparator for array",
   "main": "dist/index.js",
   "scripts": {
+    "build": "tsc",
     "test": "ntsc && node dist/test.js"
   },
   "repository": {

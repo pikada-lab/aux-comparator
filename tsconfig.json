@@ -9,14 +9,8 @@
     "target": "es6",
     "rootDir": "src",
     "declaration": true,
-    "lib": [
-      "es6","es2017.string" , "dom"
-    ],
+    "lib": ["es6", "es2017.string", "dom"]
   },
-  "include": [
-    "src/**/*"
-  ],
-  "exclude": [
-    "example/*"
-  ]
+  "include": ["src/**/*"],
+  "exclude": ["example/*", "test/*"]
 }
